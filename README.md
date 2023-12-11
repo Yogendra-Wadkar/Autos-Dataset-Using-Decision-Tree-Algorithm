@@ -1,6 +1,6 @@
 # Autos Dataset Price Prediction
  Welcome to my Autos Dataset Price Prediction project!
-
+![nwe](https://github.com/Yogendra-Wadkar/Autos-Dataset-Using-Machine-learning/assets/134367735/11672c25-3634-4eef-8f19-32444da09e9b)
 ## Project Overview
 
 In the dynamic realm of automotive data, predicting auto prices is a pivotal task. This project leverages machine learning algorithms, including Linear Regression and Decision Trees, to analyze the Autos dataset and forecast auto prices.
