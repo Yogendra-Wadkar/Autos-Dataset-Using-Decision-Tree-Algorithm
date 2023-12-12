@@ -15,7 +15,7 @@ In the dynamic realm of automotive data, predicting auto prices is a pivotal tas
 
 📋 **User-Defined Function:** Explore our convenient user-defined function for making predictions with your custom data.
 
-## Project Structure
+## Repository Structure
 
 - 📁 **Autos_Price_Prediction:** Jupyter notebook file detailing the entire process of auto price prediction.
 - 📁 **autos_dataset:** CSV file containing the Autos dataset used for analysis.
